@@ -11,16 +11,16 @@ Participants work in teams to define and complete a project aimed at gaining ins
 - United States Patent data (PatentsView: https://www.patentsview.org, open source)
 - Federal RePORTER Grant data (https://federalreporter.nih.gov, open source)
 
-**Class Program** <br>
+**Class Program:** <br>
 
-**Module 1:** <br>
+**Module 1** <br>
 December 4 - Introduction to the program <br>
 December 5 - Dataset Exploration and APIs <br>
 December 6 - Data Visualization <br>
 December 9 - Record Linkage <br>
 December 10 - Analysis & Intro to Machine Learning <br>
 
-**Module 2:** <br>
+**Module 2** <br>
 January 15 - Machine Learning, Part 2 <br>
 January 16 - Mid-Program Project Presentations <br>
 January 17 - Text Analysis <br>
