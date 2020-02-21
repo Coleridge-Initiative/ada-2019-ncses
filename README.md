@@ -8,7 +8,8 @@ Participants work in teams to define and complete a project aimed at gaining ins
 
 - Survey of Earned Doctorates, Survey of Doctorate Recipients, Higher Education Research and Development Survey (provided by NCSES)
 - UMETRICS (provided by the Institute for Research on Innovation and Science)
-- United States Patent data (provided by the United States Patent and Trademark Office)
+- United States Patent data (PatentsView: https://www.patentsview.org, open source)
+- Federal RePORTER (https://federalreporter.nih.gov, open source)
 
 **Class Program** <br>
 
