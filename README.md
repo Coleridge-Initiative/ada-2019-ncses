@@ -1,4 +1,4 @@
-# ada-ncses-2019
+# Applied Data Analytics Program at National Center for Science and Engineering Statistics (NCSES), National Science Foundation (NSF)
 
 The **National Center for Science and Engineering Statistics (NCSES)** in Alexandria, Virginia hosted the Fall 2019 **Coleridge Initiative Applied Data Analytics training program** on-site at the **National Science Foundation (NSF)**. 
 
